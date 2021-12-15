@@ -29,8 +29,9 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-## Learn More
+## About Project
 We are going to build a storage app in ReactJS. Where you can log in through Google Authentication and can upload files. We created the web app with React and stored the data in Firebase storage.
 
 Storage apps are used to store your data in the cloud as a backup. There are many popular storage apps such as Dropbox and Google Drive.
 The hosting and the database will be in Firebase. The login of the app will be through Google Authentication. We will also be using Material UI for the icons in the project. The final project will look like:
+![image](https://user-images.githubusercontent.com/89516817/146151567-d9d4eba8-9e7f-4aee-8bd4-dc5e3b12fc33.png)
